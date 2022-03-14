@@ -3,7 +3,7 @@ Algo-App:
 Zerodha Client for Order management and Sample Algo strategies.
 
 What It has:
-1. Order Management.
+1. Trade Management.
 2. Sample Algo Strategies, can derive from base strategy and implement your own implentation.
 3. Technical Indicator (RSI, SMI, EMA and many more)
 4. Telegram Logger support (Update your chat_id, token in telegram logger)
